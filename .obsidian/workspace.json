@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "c7767258d36af6a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0171e2e4b7eece9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "372d78ed35182c43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-To-Study/acoplamiento.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "acoplamiento"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "09c3d604499e312a",
+    "type": "split",
+    "children": [
+      {
+        "id": "37c9e9f740e6a99b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "416f6da1bd4b99f6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a62f73934f2762aa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fe779705193ca727",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "630793debfefec94",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "Notebook Navigator"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 732.5
+  },
+  "right": {
+    "id": "be080622b8e90e0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "679575f96e2df871",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fe6804e1a9317df",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00-To-Study/Microservicios.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Microservicios"
+            }
+          },
+          {
+            "id": "ed742f5b61f506d8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00-To-Study/Microservicios.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Microservicios"
+            }
+          },
+          {
+            "id": "3fac8f68cfe230d7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "51e738806bef75a9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "bd4bd7665fb9c811",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00-To-Study/Microservicios.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Microservicios"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "notebook-navigator:Notebook Navigator": false
+    }
+  },
+  "active": "630793debfefec94",
+  "lastOpenFiles": [
+    "10-Engineering-Fundamentals/domain-driven-design.md",
+    "10-Engineering-Fundamentals/architecture/acoplamiento.md",
+    "10-Engineering-Fundamentals/architecture",
+    "00-To-Study/acoplamiento.md",
+    "00-To-Study/Microservicios.md",
+    "00-To-Study",
+    "00-To Study"
+  ]
+}
