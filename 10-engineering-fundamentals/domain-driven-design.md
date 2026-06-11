@@ -149,6 +149,7 @@ graph LR
 
 ## 🔗 Related Concepts
 - [[acoplamiento]] — Extension: DDD reduce el acoplamiento mediante Bounded Contexts y Domain Events entre contextos
+- [[bounded-contexts]] — Detail: Los Bounded Contexts son la unidad fundamental de DDD Estratégico. El límite donde cambia el lenguaje.
 - [[microservicios]] — Prerequisite: DDD es la base para definir los límites correctos de cada microservicio
 - [[clean-architecture]] — Extension: Domain (Entities, VOs, Domain Services, Events) es el corazón; Application Service orquesta; Repository persiste
 

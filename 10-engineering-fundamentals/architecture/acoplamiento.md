@@ -49,7 +49,8 @@ graph TD
 El acoplamiento no es solo sobre código; es sobre **cómo se propagan los cambios**. Si un cambio de negocio requiere tocar 5 archivos en módulos distintos, tenés un problema de acoplamiento. Los Domain Events son la herramienta principal para desacoplar comportamientos secundarios del flujo core del negocio.
 
 ## 🔗 Related Concepts
-- [[ddd]] — Complementario: DDD usa eventos para desacoplar bounded contexts.
+- [[domain-driven-design]] — Complementario: DDD usa eventos para desacoplar bounded contexts.
+- [[bounded-contexts]] — Extension: Los Bounded Contexts se comunican desacoplados via Domain Events e IDs mínimos
 - [[eventual-consistency]] — Contraste: El bajo acoplamiento asíncrono introduce consistencia eventual.
 - [[domain-events]] — Prerrequisito: El mecanismo principal para lograr bajo acoplamiento en DDD.
 

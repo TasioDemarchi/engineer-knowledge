@@ -1,8 +1,8 @@
-Q# User Technical Context
+# User Technical Context
 
 > **Purpose:** Baseline profile for the engineering-sensei agent. Read at EVERY session start to calibrate difficulty, examples, and approach.
-> **Updated by:** User manually when level, goals, or context changes.
-> **Last Updated:** 2026-05-01
+> **Updated by:** Agent can UPDATE when user explicitly provides new information (e.g. new target stack), with user confirmation. User can also update manually.
+> **Last Updated:** 2026-05-20
 
 ---
 
@@ -22,6 +22,12 @@ Q# User Technical Context
 - Spring Framework 3
 - Monolithic architectures
 - Maintenance and evolution of legacy codebases
+
+### Target Stack (Learning)
+- Java 21 (records, sealed classes, pattern matching, virtual threads)
+- Spring Boot 3 (observability, native compilation, problem details)
+- Microservices architecture
+- Strategy: Learn concepts USING Java 21 + Spring Boot 3 — new features taught in-context, not separately
 
 ### Modern Knowledge (Self-taught / Up-to-date)
 - Somethings of Java 21
